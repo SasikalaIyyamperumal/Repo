@@ -1,4 +1,4 @@
-int x = 90, y = 80;
+int x = 90, y = 10;
  
 if (x > y)
 {
@@ -13,4 +13,3 @@ else
   Console.WriteLine("x is equal to y");
 }
  
-© 2022 GitHu
